@@ -14,7 +14,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -43,14 +43,12 @@
             2
         ],
         "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。",
             "小君辦了 5G 行動網路方案，超過 36GB 傳輸量則自動轉為 4G 高速吃到飽（50M/20M），這個月已經使用了 35GB 的傳輸量。如果現在要從 App Store 下載激鬥峽谷（大小為 4 GB），預估最快需要多少時間？（*台灣 5G 平均網路速度為 963.2Mbps，請以 1Gbps 計算）"
         ],
         "Corrections": [
-            "Macbook -pro >> MacBook -pro",
             "481s >> 488"
         ],
-        "Total": 94
+        "Total": 96
     },
     "110062325": {
         "Name": "宋少棠",
@@ -306,7 +304,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -334,13 +332,9 @@
             2,
             2
         ],
-        "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。"
-        ],
-        "Corrections": [
-            "Macbook -pro >> MacBook -pro"
-        ],
-        "Total": 98
+        "Wrong Question": [],
+        "Corrections": [],
+        "Total": 100
     },
     "110062222": {
         "Name": "李子賢",
@@ -555,7 +549,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -583,20 +577,16 @@
             2,
             2
         ],
-        "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。"
-        ],
-        "Corrections": [
-            "Macbook -pro >> MacBook -pro"
-        ],
-        "Total": 98
+        "Wrong Question": [],
+        "Corrections": [],
+        "Total": 100
     },
     "110000217": {
         "Name": "李苡瑄",
         "Scores": [
             5,
             5,
-            0,
+            5,
             4,
             5,
             4,
@@ -635,14 +625,12 @@
             2
         ],
         "Wrong Question": [
-            "請將 IPv6 位址 2607:f8b0:4004:080a:0000:0000:0000:200e 以省略法表示。",
             "圖片 Image ：.gif"
         ],
         "Corrections": [
-            "2607:f8b0:4004:80a:0:0:0:200e >> 2607:f8b0:4004:80a::200e",
             "有損壓縮（lossy） >> 無損壓縮（lossless）"
         ],
-        "Total": 93
+        "Total": 98
     },
     "110062128": {
         "Name": "姚東廷",
@@ -977,7 +965,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -1006,18 +994,16 @@
             2
         ],
         "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。",
             "圖片 Image ：.gif",
             "選擇下圖所對應的連接孔.2",
             "選擇下圖所對應的連接孔.6"
         ],
         "Corrections": [
-            "Macbook -pro >> MacBook -pro",
             "有損壓縮（lossy） >> 無損壓縮（lossless）",
             "VGA >> HDMI",
             "HDMI >> DisplayPort"
         ],
-        "Total": 92
+        "Total": 94
     },
     "110000106": {
         "Name": "賴睿麒",
@@ -1181,7 +1167,7 @@
         "Scores": [
             5,
             5,
-            0,
+            5,
             4,
             5,
             4,
@@ -1220,14 +1206,12 @@
             2
         ],
         "Wrong Question": [
-            "請將 IPv6 位址 2607:f8b0:4004:080a:0000:0000:0000:200e 以省略法表示。",
             "圖片 Image ：.gif"
         ],
         "Corrections": [
-            "2607:f8b0:4004:80a:0:0:0:200e >> 2607:f8b0:4004:80a::200e",
             "有損壓縮（lossy） >> 無損壓縮（lossless）"
         ],
-        "Total": 93
+        "Total": 98
     },
     "110062135": {
         "Name": "丁培軒",
@@ -1395,7 +1379,7 @@
         "Scores": [
             5,
             5,
-            0,
+            5,
             4,
             5,
             4,
@@ -1434,16 +1418,14 @@
             2
         ],
         "Wrong Question": [
-            "請將 IPv6 位址 2607:f8b0:4004:080a:0000:0000:0000:200e 以省略法表示。",
             "埠號 Port Number",
             "圖片 Image ：.gif"
         ],
         "Corrections": [
-            "2607:f8b0:4004:80a:0:0:0:200e >> 2607:f8b0:4004:80a::200e",
             "80 >> 443",
             "有損壓縮（lossy） >> 無損壓縮（lossless）"
         ],
-        "Total": 91
+        "Total": 96
     },
     "110062227": {
         "Name": "廖幃萱",
@@ -1460,7 +1442,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -1488,13 +1470,9 @@
             2,
             2
         ],
-        "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。"
-        ],
-        "Corrections": [
-            "Macbook -pro >> MacBook -pro"
-        ],
-        "Total": 98
+        "Wrong Question": [],
+        "Corrections": [],
+        "Total": 100
     },
     "110062136": {
         "Name": "劉晉廷",
@@ -1776,7 +1754,7 @@
             2,
             2,
             0,
-            0,
+            2,
             2,
             2,
             0,
@@ -1808,7 +1786,6 @@
             "請將二進位數值為 10001100011100100100110111101101 的 IPv4 轉為常見的 IP 表示法。（例：192.168.0.1）",
             "請將 IPv6 位址 2607:f8b0:4004:080a:0000:0000:0000:200e 以省略法表示。",
             "查詢參數 Query Parameters",
-            "查詢含「MacBook」但不含「pro」的網頁。",
             "查詢「了解情況」在劍橋詞典（dictionary.cambridge.org）上的網頁。",
             "圖片 Image ：.gif"
         ],
@@ -1816,11 +1793,10 @@
             "140,114,76,236 >> 140.114.77.237",
             "2607:f8b0:4004:080a::200e >> 2607:f8b0:4004:80a::200e",
             "v=J7yg4sWElcU >> v=J7yg4sWEIcU",
-            "Macbook -pro >> MacBook -pro",
             "了解情況 site:https://dictionary.cambridge.org >> 了解情況 site:dictionary.cambridge.org",
             "有損壓縮（lossy） >> 無損壓縮（lossless）"
         ],
-        "Total": 82
+        "Total": 84
     },
     "110090035": {
         "Name": "王淙玄",
@@ -2253,7 +2229,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             0,
@@ -2282,23 +2258,21 @@
             2
         ],
         "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。",
             "查詢「了解情況」在劍橋詞典（dictionary.cambridge.org）上的網頁。",
             "小君辦了 5G 行動網路方案，超過 36GB 傳輸量則自動轉為 4G 高速吃到飽（50M/20M），這個月已經使用了 35GB 的傳輸量。如果現在要從 App Store 下載激鬥峽谷（大小為 4 GB），預估最快需要多少時間？（*台灣 5G 平均網路速度為 963.2Mbps，請以 1Gbps 計算）"
         ],
         "Corrections": [
-            "Macbook -pro >> MacBook -pro",
             "了解情況 site:https://dictionary.cambridge.org/ >> 了解情況 site:dictionary.cambridge.org",
             "480 >> 488"
         ],
-        "Total": 92
+        "Total": 94
     },
     "110062331": {
         "Name": "楊書蓉",
         "Scores": [
             5,
             5,
-            0,
+            5,
             4,
             5,
             4,
@@ -2337,14 +2311,12 @@
             2
         ],
         "Wrong Question": [
-            "請將 IPv6 位址 2607:f8b0:4004:080a:0000:0000:0000:200e 以省略法表示。",
             "小君辦了 5G 行動網路方案，超過 36GB 傳輸量則自動轉為 4G 高速吃到飽（50M/20M），這個月已經使用了 35GB 的傳輸量。如果現在要從 App Store 下載激鬥峽谷（大小為 4 GB），預估最快需要多少時間？（*台灣 5G 平均網路速度為 963.2Mbps，請以 1Gbps 計算）"
         ],
         "Corrections": [
-            "2607:f8b0:4004:80a:0:0:0:200e >> 2607:f8b0:4004:80a::200e",
             "480 >> 488"
         ],
-        "Total": 91
+        "Total": 96
     },
     "110062213": {
         "Name": "唐翊雯",
@@ -2404,7 +2376,7 @@
         "Scores": [
             5,
             5,
-            0,
+            5,
             4,
             5,
             4,
@@ -2414,7 +2386,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -2443,16 +2415,12 @@
             2
         ],
         "Wrong Question": [
-            "請將 IPv6 位址 2607:f8b0:4004:080a:0000:0000:0000:200e 以省略法表示。",
-            "查詢含「MacBook」但不含「pro」的網頁。",
             "小君辦了 5G 行動網路方案，超過 36GB 傳輸量則自動轉為 4G 高速吃到飽（50M/20M），這個月已經使用了 35GB 的傳輸量。如果現在要從 App Store 下載激鬥峽谷（大小為 4 GB），預估最快需要多少時間？（*台灣 5G 平均網路速度為 963.2Mbps，請以 1Gbps 計算）"
         ],
         "Corrections": [
-            "2607:f8b0:4004:80a:0:0:0:200e >> 2607:f8b0:4004:80a::200e",
-            "Macbook -pro >> MacBook -pro",
             "481秒 >> 488"
         ],
-        "Total": 89
+        "Total": 96
     },
     "110062235": {
         "Name": "陳亭琪",
@@ -2469,7 +2437,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -2498,14 +2466,12 @@
             2
         ],
         "Wrong Question": [
-            "請將二進位數值為 10001100011100100100110111101101 的 IPv4 轉為常見的 IP 表示法。（例：192.168.0.1）",
-            "查詢含「MacBook」但不含「pro」的網頁。"
+            "請將二進位數值為 10001100011100100100110111101101 的 IPv4 轉為常見的 IP 表示法。（例：192.168.0.1）"
         ],
         "Corrections": [
-            "140.114.79.237 >> 140.114.77.237",
-            "Macbook -pro >> MacBook -pro"
+            "140.114.79.237 >> 140.114.77.237"
         ],
-        "Total": 93
+        "Total": 95
     },
     "108020020": {
         "Name": "劉俊鍵",
@@ -2667,7 +2633,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             0,
@@ -2696,16 +2662,14 @@
             2
         ],
         "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。",
             "查詢「了解情況」在劍橋詞典（dictionary.cambridge.org）上的網頁。",
             "小君辦了 5G 行動網路方案，超過 36GB 傳輸量則自動轉為 4G 高速吃到飽（50M/20M），這個月已經使用了 35GB 的傳輸量。如果現在要從 App Store 下載激鬥峽谷（大小為 4 GB），預估最快需要多少時間？（*台灣 5G 平均網路速度為 963.2Mbps，請以 1Gbps 計算）"
         ],
         "Corrections": [
-            "Macbook -pro >> MacBook -pro",
             "了解情況 site:https://dictionary.cambridge.org/ >> 了解情況 site:dictionary.cambridge.org",
             "4801 >> 488"
         ],
-        "Total": 92
+        "Total": 94
     },
     "110062236": {
         "Name": "卓岳霆",
@@ -2987,7 +2951,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             0,
@@ -3017,17 +2981,15 @@
         ],
         "Wrong Question": [
             "阿明想組裝電腦，請將硬碟選項 (1) SATA HDD (2) SATA SSD (3) M.2 SATA SSD (4) M.2 PCIe 3.0 SSD (5) M.2 PCIe 4.0 SSD 照速度排列（用 >、<、= 符號表示）",
-            "查詢含「MacBook」但不含「pro」的網頁。",
             "查詢「了解情況」在劍橋詞典（dictionary.cambridge.org）上的網頁。",
             "圖片 Image ：.gif"
         ],
         "Corrections": [
             "(1) SATA HDD < (2) SATA SSD < (3) M.2 SATA SSD <(4) M.2 PCIe 3.0 SSD < (5) M.2 PCIe 4.0 SSD >> 1<2=3<4<5",
-            "Macbook -pro >> MacBook -pro",
             "site:dictionary.cambridge.org 了解情況 >> 了解情況 site:dictionary.cambridge.org",
             "有損壓縮（lossy） >> 無損壓縮（lossless）"
         ],
-        "Total": 90
+        "Total": 92
     },
     "110062161": {
         "Name": "張家豐",
@@ -3044,7 +3006,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -3072,13 +3034,9 @@
             2,
             2
         ],
-        "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。"
-        ],
-        "Corrections": [
-            "MacBook -Pro >> MacBook -pro"
-        ],
-        "Total": 98
+        "Wrong Question": [],
+        "Corrections": [],
+        "Total": 100
     },
     "110060024": {
         "Name": "郭霆宇",
@@ -3095,7 +3053,7 @@
             2,
             0,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -3124,14 +3082,12 @@
             2
         ],
         "Wrong Question": [
-            "路徑 Path",
-            "查詢含「MacBook」但不含「pro」的網頁。"
+            "路徑 Path"
         ],
         "Corrections": [
-            "watch? >> /watch",
-            "Macbook -pro >> MacBook -pro"
+            "watch? >> /watch"
         ],
-        "Total": 96
+        "Total": 98
     },
     "110062118": {
         "Name": "賴姿妘",
@@ -3203,7 +3159,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -3232,14 +3188,12 @@
             2
         ],
         "Wrong Question": [
-            "請將 IPv6 位址 2607:f8b0:4004:080a:0000:0000:0000:200e 以省略法表示。",
-            "查詢含「MacBook」但不含「pro」的網頁。"
+            "請將 IPv6 位址 2607:f8b0:4004:080a:0000:0000:0000:200e 以省略法表示。"
         ],
         "Corrections": [
-            "2607:f8b0:4004:080a::200e >> 2607:f8b0:4004:80a::200e",
-            "Macbook -pro >> MacBook -pro"
+            "2607:f8b0:4004:080a::200e >> 2607:f8b0:4004:80a::200e"
         ],
-        "Total": 93
+        "Total": 95
     },
     "110062340": {
         "Name": "蔡皓宇",
@@ -3460,7 +3414,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -3488,13 +3442,9 @@
             2,
             2
         ],
-        "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。"
-        ],
-        "Corrections": [
-            "Macbook -pro >> MacBook -pro"
-        ],
-        "Total": 98
+        "Wrong Question": [],
+        "Corrections": [],
+        "Total": 100
     },
     "110000222": {
         "Name": "周祺芳",
@@ -3929,7 +3879,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -3957,13 +3907,9 @@
             2,
             2
         ],
-        "Wrong Question": [
-            "查詢含「MacBook」但不含「pro」的網頁。"
-        ],
-        "Corrections": [
-            "macbook -pro >> MacBook -pro"
-        ],
-        "Total": 98
+        "Wrong Question": [],
+        "Corrections": [],
+        "Total": 100
     },
     "109020016": {
         "Name": "張家祐",
@@ -4233,7 +4179,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             0,
@@ -4267,7 +4213,6 @@
             "How 哥想要升級 iMac 的記憶體，查到原廠最高僅支援 2666MHz DDR4記憶體，以下哪些建議是正確的？",
             "阿明想組裝電腦，請將硬碟選項 (1) SATA HDD (2) SATA SSD (3) M.2 SATA SSD (4) M.2 PCIe 3.0 SSD (5) M.2 PCIe 4.0 SSD 照速度排列（用 >、<、= 符號表示）",
             "伺服器位址 Server Address",
-            "查詢含「MacBook」但不含「pro」的網頁。",
             "查詢「了解情況」在劍橋詞典（dictionary.cambridge.org）上的網頁。",
             "圖片 Image ：.gif",
             "圖片 Image ：.jpeg"
@@ -4278,12 +4223,11 @@
             "小美：白痴ㄛ阿明，只能購買 2666MHz DDR4 記憶體，其他規格都不相容，會沒辦法開機的啦！Xiaomei: Amin you idiot, you can only use a 2666MHz DDR4 memory. Other specifications are not compatible, there will be no way to boot! >> 藍亦明：閉嘴啦不要亂講，直接買這個 3200MHz DDR4 記憶體就好了，就算 iMac 跑不了 3200MHz 那麼快，也會自動降頻到 2666MHz。Lan Yiming: Shut up, don't talk nonsense. Just buy the 3200MHz DDR4 memory. Even if the iMac can't run as fast as 3200MHz, it will automatically underclock to 2666MHz.",
             "(1) < (2) < (3) < (4) < (5) >> 1<2=3<4<5",
             "172.217.160.78 >> www.youtube.com",
-            "macbook -pro >> MacBook -pro",
             "了解情況 cambridge >> 了解情況 site:dictionary.cambridge.org",
             "有損壓縮（lossy） >> 無損壓縮（lossless）",
             "無損壓縮（lossless） >> 有損壓縮（lossy）"
         ],
-        "Total": 72
+        "Total": 74
     },
     "110062104": {
         "Name": "林立上",
@@ -4485,7 +4429,7 @@
             2,
             0,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -4516,18 +4460,16 @@
         "Wrong Question": [
             "阿明想組裝電腦，請將硬碟選項 (1) SATA HDD (2) SATA SSD (3) M.2 SATA SSD (4) M.2 PCIe 3.0 SSD (5) M.2 PCIe 4.0 SSD 照速度排列（用 >、<、= 符號表示）",
             "路徑 Path",
-            "查詢含「MacBook」但不含「pro」的網頁。",
             "小君辦了 5G 行動網路方案，超過 36GB 傳輸量則自動轉為 4G 高速吃到飽（50M/20M），這個月已經使用了 35GB 的傳輸量。如果現在要從 App Store 下載激鬥峽谷（大小為 4 GB），預估最快需要多少時間？（*台灣 5G 平均網路速度為 963.2Mbps，請以 1Gbps 計算）",
             "圖片 Image ：.gif"
         ],
         "Corrections": [
             "5>4>3=2>1 >> 1<2=3<4<5",
             "watch?v=J7yg4sWEIcU >> /watch",
-            "Macbook -pro >> MacBook -pro",
             "481s >> 488",
             "有損壓縮（lossy） >> 無損壓縮（lossless）"
         ],
-        "Total": 86
+        "Total": 88
     },
     "110000207": {
         "Name": "曾楷宇",
@@ -4607,7 +4549,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -4636,14 +4578,12 @@
             2
         ],
         "Wrong Question": [
-            "阿明想組裝電腦，請將硬碟選項 (1) SATA HDD (2) SATA SSD (3) M.2 SATA SSD (4) M.2 PCIe 3.0 SSD (5) M.2 PCIe 4.0 SSD 照速度排列（用 >、<、= 符號表示）",
-            "查詢含「MacBook」但不含「pro」的網頁。"
+            "阿明想組裝電腦，請將硬碟選項 (1) SATA HDD (2) SATA SSD (3) M.2 SATA SSD (4) M.2 PCIe 3.0 SSD (5) M.2 PCIe 4.0 SSD 照速度排列（用 >、<、= 符號表示）"
         ],
         "Corrections": [
-            "(1)<(2)<(3)<(4)<(5) >> 1<2=3<4<5",
-            "Macbook -pro >> MacBook -pro"
+            "(1)<(2)<(3)<(4)<(5) >> 1<2=3<4<5"
         ],
-        "Total": 94
+        "Total": 96
     },
     "110000162": {
         "Name": "蘇立光",
