@@ -1753,7 +1753,7 @@
             2,
             2,
             2,
-            0,
+            2,
             2,
             2,
             2,
@@ -1785,18 +1785,16 @@
         "Wrong Question": [
             "請將二進位數值為 10001100011100100100110111101101 的 IPv4 轉為常見的 IP 表示法。（例：192.168.0.1）",
             "請將 IPv6 位址 2607:f8b0:4004:080a:0000:0000:0000:200e 以省略法表示。",
-            "查詢參數 Query Parameters",
             "查詢「了解情況」在劍橋詞典（dictionary.cambridge.org）上的網頁。",
             "圖片 Image ：.gif"
         ],
         "Corrections": [
             "140,114,76,236 >> 140.114.77.237",
             "2607:f8b0:4004:080a::200e >> 2607:f8b0:4004:80a::200e",
-            "v=J7yg4sWElcU >> v=J7yg4sWEIcU",
             "了解情況 site:https://dictionary.cambridge.org >> 了解情況 site:dictionary.cambridge.org",
             "有損壓縮（lossy） >> 無損壓縮（lossless）"
         ],
-        "Total": 84
+        "Total": 86
     },
     "110090035": {
         "Name": "王淙玄",
